@@ -7,3 +7,7 @@ Utväcklingssamtal
 Idag så har vi länkat in våran Bootstrap. Vi har valt egna snygga färger och har en grund vi kan skriva på. Vi har länkat in den via github och den funkar som den ska. Vi har också valt två olika comersiella fonter att använda oss av.
 Det absolut svåraste idag var att länka in den FÖRBANNADE bootstrapen men nu är det fixat. Vi har också börjat fundera
 på layout och hur sidan generellt ska se ut. Vi siktar på skarpa kanter och mycket produktkort. Vi har ocks börjat spekulera om styleguide.  
+## vecka 12
+idag har vi lyckats länka in och använda EN font. den andra blir ovveridad av någon jävla anledning.
+Ogge jobbar fr fullt med en styleguide och en logga men det går framåt. Jag och Weam har försökt att få dehär satans
+jävla css:en att funka. Jaja vi vet var vi är påväg iallafall. Åtminstånde funkar bootstrapen fortfarande :/
