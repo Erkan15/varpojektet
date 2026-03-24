@@ -11,3 +11,5 @@ på layout och hur sidan generellt ska se ut. Vi siktar på skarpa kanter och my
 idag har vi lyckats länka in och använda EN font. den andra blir ovveridad av någon jävla anledning.
 Ogge jobbar fr fullt med en styleguide och en logga men det går framåt. Jag och Weam har försökt att få dehär satans
 jävla css:en att funka. Jaja vi vet var vi är påväg iallafall. Åtminstånde funkar bootstrapen fortfarande :/
+## vecka 13 
+Idag har vi försökt i 1.5 timmar att fixa en ok navbar med bootstrap. Det gick åt skogen så vi gjorde en egen i css som var mycket snyggare och enklare. Ogge har kommit en bra bit på styleguiden och förväntas att bli klar nästa eller nästnästa lektion. Weam hjälpte mig med att implomentera och felsöka denna förbannade navbar men annars står det en tom stol bredvid mig. Han har däremot fortsatt på designen i penpot. Nästa gång ska vi fokuera på att lägga in kort och försöka få navbaren snyggre. 
