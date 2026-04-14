@@ -15,3 +15,8 @@ jävla css:en att funka. Jaja vi vet var vi är påväg iallafall. Åtminstånde
 Idag har vi försökt i 1.5 timmar att fixa en ok navbar med bootstrap. Det gick åt skogen så vi gjorde en egen i css som var mycket snyggare och enklare. Ogge har kommit en bra bit på styleguiden och förväntas att bli klar nästa eller nästnästa lektion. Weam hjälpte mig med att implomentera och felsöka denna förbannade navbar men annars står det en tom stol bredvid mig. Han har däremot fortsatt på designen i penpot. Nästa gång ska vi fokuera på att lägga in kort och försöka få navbaren snyggre.
 ## vecka 14
 Idag har vi fializerat våran layout. Ogge fortsätter med styleguiden och jag håller på att lägga in kort på parfym. Stora framsteg idag då jag har fått navbaren och korten att funka tilsammans. Flexbox är the shit alltså. Nästa steg är bara att få hemsidan så snygg som möjligt (skriva kod)
+## vecka 15
+påsklov
+## vecka 16
+Idag har Ogges penpot konto blivit borttaget och har därför behövt börja om på styleguiden. Själva hesidan går framåt. Jag har lagt till mer exempelbilder och exempeltext så hemsidan inte bara är en platt bakgrund. Jag har också lagt till footer. Nästa gång kan vi fokusera på att få bakgrunden bra och få en extern "showcase" html för att visa produkter och sånt. Long live the age of dark. 
+
