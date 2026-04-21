@@ -1,4 +1,4 @@
-# Vårpojektet  https://live.codetogether.io/#/3b5ab0b6-841e-4caf-8c65-8d38006bd485/7qq6e4A7E14D8l3yCtNLju   https://wireframe.cc/6bjUwX 
+# Vårpojektet
 ## vecka 9
 Vi har gjort en wireframe och börjat förstå hur vi delar vår kod med varandra. Vi har bestämt oss för att använda codeshare i VSCodium. UF företaget som vi ska göra hemsidan gör säljer parfym.
 ## vecka 10 
@@ -19,4 +19,6 @@ Idag har vi fializerat våran layout. Ogge fortsätter med styleguiden och jag h
 påsklov
 ## vecka 16
 Idag har Ogges penpot konto blivit borttaget och har därför behövt börja om på styleguiden. Själva hesidan går framåt. Jag har lagt till mer exempelbilder och exempeltext så hemsidan inte bara är en platt bakgrund. Jag har också lagt till footer. Nästa gång kan vi fokusera på att få bakgrunden bra och få en extern "showcase" html för att visa produkter och sånt. Long live the age of dark. 
+## vecka 17
+Idag har jag och weam börjat på en produktsida för att visa av våra produkter. Vi har också brottats med bakgrundsbilder men vi tror att vi har hittat någon som passar och ser bra ut. Vi har också lagt till hover funktioner till produktbilderna och gjort dem till funktionella länkar. Nästa gång ska vi fortsätta på produktsidan. 
 
