@@ -21,4 +21,7 @@ påsklov
 Idag har Ogges penpot konto blivit borttaget och har därför behövt börja om på styleguiden. Själva hesidan går framåt. Jag har lagt till mer exempelbilder och exempeltext så hemsidan inte bara är en platt bakgrund. Jag har också lagt till footer. Nästa gång kan vi fokusera på att få bakgrunden bra och få en extern "showcase" html för att visa produkter och sånt. Long live the age of dark. 
 ## vecka 17
 Idag har jag och weam börjat på en produktsida för att visa av våra produkter. Vi har också brottats med bakgrundsbilder men vi tror att vi har hittat någon som passar och ser bra ut. Vi har också lagt till hover funktioner till produktbilderna och gjort dem till funktionella länkar. Nästa gång ska vi fortsätta på produktsidan. 
-
+## vecka 18
+gyredovisning
+## vecka 19
+Vi har försökt få produktsidan någelunda snygg men det har gått långsamt framåt. Bildstorleken krånglar, sen krånglar bakgrunden, sen krånglar prioriteringar, sen krånglar navbar textstorlek, textfär FAAAAAAAAAAAAAAAAAAAAAAAAHHHH. Men vi fck en OK layout i slutet. Den är inte nära klar än men navbar och footer är på plats iallafall. Ogge är såklart inte här men han får locka in hemma. 
