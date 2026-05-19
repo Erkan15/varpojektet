@@ -27,3 +27,5 @@ gyredovisning
 Vi har försökt få produktsidan någelunda snygg men det har gått långsamt framåt. Bildstorleken krånglar, sen krånglar bakgrunden, sen krånglar prioriteringar, sen krånglar navbar textstorlek, textfär FAAAAAAAAAAAAAAAAAAAAAAAAHHHH. Men vi fck en OK layout i slutet. Den är inte nära klar än men navbar och footer är på plats iallafall. Ogge är såklart inte här men han får locka in hemma. 
 ## vecka 20
 Nu har vi äntligen en acceptabel produktsida. Styleguiden går framåt och vi har börjat med en "om oss" sida. Produktsidan är gjord för whatsapp parfymen och visar upp hur en eventuell produkt visas upp. 
+## vecka 21
+Idag har vi finaliserat "om oss" sidan och gjort den så bra vi kan. Ogge är såklart sjuk igen så vi vet inte hur det går med styleguiden. Vi har också gjort knapparna på hemsidan funktionära och centrerat lite skit. Har också kollat med w3c men dem klagade bara på en "icke funktionell tagg" fast den funkade ändån. OGGE KOM TILLBAKA LOCK TF IN
